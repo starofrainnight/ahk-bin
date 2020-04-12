@@ -1,0 +1,34 @@
+=======
+ahk-bin
+=======
+
+
+.. image:: https://img.shields.io/pypi/v/ahk-bin.svg
+    :target: https://pypi.python.org/pypi/ahk-bin
+
+.. image:: https://travis-ci.org/starofrainnight/ahk-bin.svg?branch=master
+    :target: https://travis-ci.org/starofrainnight/ahk-bin
+
+.. image:: https://ci.appveyor.com/api/projects/status/github/starofrainnight/ahk-bin?svg=true
+    :target: https://ci.appveyor.com/project/starofrainnight/ahk-bin
+
+/mnt/data/sources/projects/licenraptor/dist
+
+
+* License: Apache-2.0
+* Documentation: https://ahk-bin.readthedocs.io.
+
+
+Features
+--------
+
+* TODO
+
+Credits
+---------
+
+This package was created with Cookiecutter_ and the `PyPackageTemplate`_ project template.
+
+.. _Cookiecutter: https://github.com/audreyr/cookiecutter
+.. _`PyPackageTemplate`: https://github.com/starofrainnight/rtpl-pypackage
+
