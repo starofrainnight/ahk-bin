@@ -29,7 +29,7 @@ tests_requires = [
 setup(
     name='ahk-bin',
     version="0.0.1",
-    description="/mnt/data/sources/projects/licenraptor/dist",
+    description="A python package that bundled with workable AutoHotkey binary which could works for 'ahk' package ",
     long_description=long_description,
     author="Hong-She Liang",
     author_email='starofrainnight@gmail.com',

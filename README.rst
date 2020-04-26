@@ -12,8 +12,7 @@ ahk-bin
 .. image:: https://ci.appveyor.com/api/projects/status/github/starofrainnight/ahk-bin?svg=true
     :target: https://ci.appveyor.com/project/starofrainnight/ahk-bin
 
-/mnt/data/sources/projects/licenraptor/dist
-
+A python package that bundled with workable AutoHotkey binary which could works for 'ahk' package
 
 * License: Apache-2.0
 * Documentation: https://ahk-bin.readthedocs.io.
