@@ -2,9 +2,11 @@ include AUTHORS.rst
 include CONTRIBUTING.rst
 include HISTORY.rst
 include LICENSE
+include LICENSE_AHK.txt
 include README.rst
 
 recursive-include tests *
+recursive-include ahkbin/ahk *
 recursive-exclude * __pycache__
 recursive-exclude * *.py[co]
 
