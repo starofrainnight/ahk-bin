@@ -13,7 +13,6 @@ with io.open("README.rst", encoding="utf-8") as readme_file, io.open(
 
 install_requires = [
     "click>=6.0",
-    "ahk",
 ]
 
 setup_requires = [
