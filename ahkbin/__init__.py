@@ -6,4 +6,4 @@ __author__ = """Hong-She Liang"""
 __email__ = "starofrainnight@gmail.com"
 __version__ = "0.0.1"
 
-from .ahkbin import get_executable
+from .ahkbin import get_executable  # noqa

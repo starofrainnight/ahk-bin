@@ -5,10 +5,6 @@
 
 import pytest
 
-from click.testing import CliRunner
-
-from ahkbin import ahkbin
-
 
 @pytest.fixture
 def response():
