@@ -2,7 +2,6 @@
 ahk-bin
 =======
 
-
 .. image:: https://img.shields.io/pypi/v/ahk-bin.svg
     :target: https://pypi.python.org/pypi/ahk-bin
 
@@ -14,20 +13,19 @@ ahk-bin
 
 A python package that bundled with workable AutoHotkey binary which could works for 'ahk' package
 
-* License: Apache-2.0
-* Documentation: https://ahk-bin.readthedocs.io.
-
-
-Features
+Usage
 --------
 
-* TODO
+::
 
-Credits
+    import ahkbin
+    from ahk import AHK
+
+    ahk = AHK(executable_path=ahkbin.get_executable())
+
+License
 ---------
 
-This package was created with Cookiecutter_ and the `PyPackageTemplate`_ project template.
+This package is licensed under GPLv2.
 
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _`PyPackageTemplate`: https://github.com/starofrainnight/rtpl-pypackage
-
+The license of AutoHotkey binary are described in LICENSE_AHK.txt
