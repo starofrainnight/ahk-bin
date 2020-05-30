@@ -50,5 +50,6 @@ setup(
     ],
     test_suite="tests",
     tests_require=tests_requires,
+    data_files=[('Scripts', ['ahkbin\\ahk\\AutoHotkey.exe'])],
     setup_requires=setup_requires,
 )
