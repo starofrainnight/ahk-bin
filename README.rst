@@ -21,6 +21,11 @@ Usage
     import ahkbin
     from ahk import AHK
 
+    # If your Scripts directory of python be placed in PATH, it should works
+    # like a charm
+    ahk = AHK()
+
+    # Otherwise, you must specific the path which bundled in our package
     ahk = AHK(executable_path=ahkbin.get_executable())
 
 License
