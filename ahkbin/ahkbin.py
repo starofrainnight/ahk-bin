@@ -8,4 +8,4 @@ def get_dir():
 
 
 def get_executable():
-    return os.path.join(get_dir(), "AutoHotkeyU32.exe")
+    return os.path.join(get_dir(), "AutoHotkey.exe")
