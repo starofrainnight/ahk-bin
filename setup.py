@@ -27,7 +27,7 @@ tests_requires = [
 
 setup(
     name="ahk-bin",
-    version="0.0.3",
+    version="0.0.4",
     description="A python package that bundled with workable AutoHotkey binary which could works for 'ahk' package ",
     long_description=long_description,
     author="Hong-She Liang",
